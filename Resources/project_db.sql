@@ -18,3 +18,13 @@ CREATE TABLE earnings (
 );	
 
 select * from earnings
+
+
+SELECT  r.name,
+        r.rank,
+        e.starting_median_salary
+FROM rankings as r
+JOIN earnings as e
+	on (r.name = e.school_name)
+ORDER BY e.starting_median_salary desc;	
+
