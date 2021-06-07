@@ -1,90 +1,274 @@
-School Name,School Rank,State
-Princeton University,1, NJ
-Harvard University,2, MA
-University of Chicago,3, IL
-Yale University,3, CT
-Columbia University,5, NY
-Stanford University,5, CA
-Massachusetts Institute of Technology,7, MA
-University of Pennsylvania,8, PA
-Duke University,8, NC
-Johns Hopkins University,10, MD
-Dartmouth College,11, NH
-California Institute of Technology,12, CA
-Northwestern University,12, IL
-Brown University,14, RI
-Rice University,15, TX
-University of Notre Dame,15, IN
-Cornell University,15, NY
-Vanderbilt University,15, TN
-Emory University,20, GA
-Georgetown University,20, DC
-University of Southern California,23, CA
-University of Virginia,24, VA
-Carnegie Mellon University,24, PA
-Tufts University,27, MA
-Wake Forest University,27, NC
-Boston College,31, MA
-University of Rochester,32, NY
-Brandeis University,34, MA
-Georgia Institute of Technology,34, GA
-New York University,36, NY
-Case Western Reserve University,37, OH
-Northeastern University,39, MA
-Rensselaer Polytechnic Institute,39, NY
-Tulane University,39, LA
-Boston University,39, MA
-University of Miami,44, FL
-Lehigh University,44, PA
-University of Florida,50, FL
-University of Washington,54, WA
-George Washington University,56, DC
-University of Georgia,56, GA
-Syracuse University,60, NY
-University of Connecticut,60, CT
-Yeshiva University,66, NY
-Clemson University,66, SC
-University of Pittsburgh,68, PA
-American University,74, DC
-University of Delaware,79, DE
-University of Iowa,82, IA
-Colorado School of Mines,82, CO
-Michigan State University,82, MI
-University of Tulsa,86, OK
-Florida State University,92, FL
-Saint Louis University,96, MO
-Drexel University,96, PA
-Auburn University,99, AL
-University of Oregon,103, OR
-University of South Carolina,107, SC
-University of San Francisco,107, CA
-Rochester Institute of Technology,107, NY
-University of Utah,111, UT
-Iowa State University,111, IA
-University of Missouri,111, MO
-Temple University,118, PA
-University of Arizona,124, AZ
-Howard University,124, DC
-Colorado State University,129, CO
-University of Cincinnati,135, OH
-Kansas State University,135, KS
-New Jersey Institute of Technology,135, NJ
-University of Arkansas,135, AR
-Oregon State University,143, OR
-George Mason University,143, VA
-Washington State University,143, WA
-San Diego State University,146, CA
-Ohio University,146, OH
-Oklahoma State University,152, OK
-University of South Florida,159, FL
-University of Idaho,171, ID
-Florida Institute of Technology,171, FL
-University of New Mexico,176, NM
-Texas Tech University,176, TX
-Kent State University,188, OH
-University of Houston,194, TX
-University of South Dakota,202, SD
-Montana State University,210, MT
-University of Montana,214, MT
-New Mexico State University,220, NM
-University of Southern Mississippi,220, MS
+,,
+,,
+Row Labels,State,Sum of School Rank
+American University, DC,74.00
+American University Total,,74.00
+Auburn University, AL,99.00
+Auburn University Total,,99.00
+Boston College, MA,31.00
+Boston College Total,,31.00
+Boston University, MA,39.00
+Boston University Total,,39.00
+Brandeis University, MA,34.00
+Brandeis University Total,,34.00
+Brown University, RI,14.00
+Brown University Total,,14.00
+California Institute of Technology, CA,12.00
+California Institute of Technology Total,,12.00
+Carnegie Mellon University, PA,24.00
+Carnegie Mellon University Total,,24.00
+Case Western Reserve University, OH,37.00
+Case Western Reserve University Total,,37.00
+Clemson University, SC,66.00
+Clemson University Total,,66.00
+Colorado School of Mines, CO,82.00
+Colorado School of Mines Total,,82.00
+Colorado State University, CO,129.00
+Colorado State University Total,,129.00
+Columbia University, NY,5.00
+Columbia University Total,,5.00
+Cornell University, NY,15.00
+Cornell University Total,,15.00
+Dartmouth College, NH,11.00
+Dartmouth College Total,,11.00
+Drexel University, PA,96.00
+Drexel University Total,,96.00
+Duke University, NC,8.00
+Duke University Total,,8.00
+Emory University, GA,20.00
+Emory University Total,,20.00
+Florida Institute of Technology, FL,171.00
+Florida Institute of Technology Total,,171.00
+Florida State University, FL,92.00
+Florida State University Total,,92.00
+George Mason University, VA,143.00
+George Mason University Total,,143.00
+George Washington University, DC,56.00
+George Washington University Total,,56.00
+Georgetown University, DC,20.00
+Georgetown University Total,,20.00
+Georgia Institute of Technology, GA,34.00
+Georgia Institute of Technology Total,,34.00
+Harvard University, MA,2.00
+Harvard University Total,,2.00
+Howard University, DC,124.00
+Howard University Total,,124.00
+Iowa State University, IA,111.00
+Iowa State University Total,,111.00
+Johns Hopkins University, MD,10.00
+Johns Hopkins University Total,,10.00
+Kansas State University, KS,135.00
+Kansas State University Total,,135.00
+Kent State University, OH,188.00
+Kent State University Total,,188.00
+Lehigh University, PA,44.00
+Lehigh University Total,,44.00
+Massachusetts Institute of Technology, MA,7.00
+Massachusetts Institute of Technology Total,,7.00
+Michigan State University, MI,82.00
+Michigan State University Total,,82.00
+Montana State University, MT,210.00
+Montana State University Total,,210.00
+New Jersey Institute of Technology, NJ,135.00
+New Jersey Institute of Technology Total,,135.00
+New Mexico State University, NM,220.00
+New Mexico State University Total,,220.00
+New York University, NY,36.00
+New York University Total,,36.00
+Northeastern University, MA,39.00
+Northeastern University Total,,39.00
+Northwestern University, IL,12.00
+Northwestern University Total,,12.00
+Ohio University, OH,146.00
+Ohio University Total,,146.00
+Oklahoma State University, OK,152.00
+Oklahoma State University Total,,152.00
+Oregon State University, OR,143.00
+Oregon State University Total,,143.00
+Princeton University, NJ,1.00
+Princeton University Total,,1.00
+Rensselaer Polytechnic Institute, NY,39.00
+Rensselaer Polytechnic Institute Total,,39.00
+Rice University, TX,15.00
+Rice University Total,,15.00
+Rochester Institute of Technology, NY,107.00
+Rochester Institute of Technology Total,,107.00
+Saint Louis University, MO,96.00
+Saint Louis University Total,,96.00
+San Diego State University, CA,146.00
+San Diego State University Total,,146.00
+Stanford University, CA,5.00
+Stanford University Total,,5.00
+Syracuse University, NY,60.00
+Syracuse University Total,,60.00
+Temple University, PA,118.00
+Temple University Total,,118.00
+Texas Tech University, TX,176.00
+Texas Tech University Total,,176.00
+Tufts University, MA,27.00
+Tufts University Total,,27.00
+Tulane University, LA,39.00
+Tulane University Total,,39.00
+University of Arizona, AZ,124.00
+University of Arizona Total,,124.00
+University of Arkansas, AR,135.00
+University of Arkansas Total,,135.00
+University of Chicago, IL,3.00
+University of Chicago Total,,3.00
+University of Cincinnati, OH,135.00
+University of Cincinnati Total,,135.00
+University of Connecticut, CT,60.00
+University of Connecticut Total,,60.00
+University of Delaware, DE,79.00
+University of Delaware Total,,79.00
+University of Florida, FL,50.00
+University of Florida Total,,50.00
+University of Georgia, GA,56.00
+University of Georgia Total,,56.00
+University of Houston, TX,194.00
+University of Houston Total,,194.00
+University of Idaho, ID,171.00
+University of Idaho Total,,171.00
+University of Iowa, IA,82.00
+University of Iowa Total,,82.00
+University of Miami, FL,44.00
+University of Miami Total,,44.00
+University of Missouri, MO,111.00
+University of Missouri Total,,111.00
+University of Montana, MT,214.00
+University of Montana Total,,214.00
+University of New Mexico, NM,176.00
+University of New Mexico Total,,176.00
+University of Notre Dame, IN,15.00
+University of Notre Dame Total,,15.00
+University of Oregon, OR,103.00
+University of Oregon Total,,103.00
+University of Pennsylvania, PA,8.00
+University of Pennsylvania Total,,8.00
+University of Pittsburgh, PA,68.00
+University of Pittsburgh Total,,68.00
+University of Rochester, NY,32.00
+University of Rochester Total,,32.00
+University of San Francisco, CA,107.00
+University of San Francisco Total,,107.00
+University of South Carolina, SC,107.00
+University of South Carolina Total,,107.00
+University of South Dakota, SD,202.00
+University of South Dakota Total,,202.00
+University of South Florida, FL,159.00
+University of South Florida Total,,159.00
+University of Southern California, CA,23.00
+University of Southern California Total,,23.00
+University of Southern Mississippi, MS,220.00
+University of Southern Mississippi Total,,220.00
+University of Tulsa, OK,86.00
+University of Tulsa Total,,86.00
+University of Utah, UT,111.00
+University of Utah Total,,111.00
+University of Virginia, VA,24.00
+University of Virginia Total,,24.00
+University of Washington, WA,54.00
+University of Washington Total,,54.00
+Vanderbilt University, TN,15.00
+Vanderbilt University Total,,15.00
+Wake Forest University, NC,27.00
+Wake Forest University Total,,27.00
+Washington State University, WA,143.00
+Washington State University Total,,143.00
+Yale University, CT,3.00
+Yale University Total,,3.00
+Yeshiva University, NY,66.00
+Yeshiva University Total,,66.00
+(blank),(blank),
+(blank) Total,,
+Grand Total,,7144.00
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

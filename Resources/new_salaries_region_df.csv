@@ -1,321 +1,323 @@
-School Name,Starting Median Salary,
-Stanford University,"$70,400.00 ",
-California Institute of Technology (CIT),"$75,500.00 ",
-Harvey Mudd College,"$71,800.00 ",
-"University of California, Berkeley","$59,900.00 ",
-Occidental College,"$51,900.00 ",
-Cal Poly San Luis Obispo,"$57,200.00 ",
-University of California at Los Angeles (UCLA),"$52,600.00 ",
-"University of California, San Diego (UCSD)","$51,100.00 ",
-Pomona College,"$48,600.00 ",
-University of Southern California (USC),"$54,800.00 ",
-"University of California, Davis","$52,300.00 ",
-"University of California, Irvine (UCI)","$48,300.00 ",
-San Jose State University (SJSU),"$53,500.00 ",
-"University of California, Santa Barbara (UCSB)","$50,500.00 ",
-"California State University (CSU), Chico","$47,400.00 ",
-"California State University, Fullerton (CSUF)","$45,700.00 ",
-San Francisco State University (SFSU),"$47,300.00 ",
-San Diego State University (SDSU),"$46,200.00 ",
-"California State University, Long Beach (CSULB)","$45,100.00 ",
-"California State University, East Bay (CSUEB)","$49,200.00 ",
-"University of California, Santa Cruz (UCSC)","$44,700.00 ",
-"California State University, Sacramento (CSUS)","$47,800.00 ",
-"University of California, Riverside (UCR)","$46,800.00 ",
-"California State University, Northridge (CSUN)","$45,500.00 ",
-"California State University, Dominguez Hills (CSUDH)","$42,700.00 ",
-"California State University (CSU), Stanislaus","$38,000.00 ",
-Humboldt State University,"$42,600.00 ",
-Thomas Aquinas College,"$41,500.00 ",
-Colorado School of Mines,"$58,100.00 ",
-University of Colorado - Boulder (UCB),"$47,100.00 ",
-New Mexico Institute of Mining and Technology (New Mexico Tech),"$51,000.00 ",
-Brigham Young University (BYU),"$49,400.00 ",
-University of Arizona,"$47,500.00 ",
-University of Washington (UW),"$48,800.00 ",
-Washington State University (WSU),"$45,300.00 ",
-University of Colorado - Denver,"$46,100.00 ",
-Arizona State University (ASU),"$47,400.00 ",
-Oregon State University (OSU),"$45,100.00 ",
-University of Utah,"$45,400.00 ",
-"University of Nevada, Reno (UNR)","$46,500.00 ",
-Seattle University,"$48,300.00 ",
-University of Idaho,"$44,900.00 ",
-University of New Mexico (UNM),"$41,600.00 ",
-University of Puget Sound,"$46,600.00 ",
-Colorado College (CC),"$38,500.00 ",
-Reed College,"$40,500.00 ",
-Whitman College,"$43,500.00 ",
-New Mexico State University,"$44,300.00 ",
-Colorado State University (CSU),"$44,800.00 ",
-University of Wyoming (UW),"$44,500.00 ",
-Utah State University,"$43,800.00 ",
-University of Oregon,"$42,200.00 ",
-Montana State University - Bozeman,"$46,600.00 ",
-Gonzaga University,"$44,900.00 ",
-University of Hawaii,"$43,800.00 ",
-Western Washington University,"$42,700.00 ",
-Regis University,"$48,300.00 ",
-Idaho State University,"$44,900.00 ",
-"University of Alaska, Anchorage","$45,900.00 ",
-Lewis & Clark College,"$38,900.00 ",
-University of Montana,"$37,300.00 ",
-"University of Nevada, Las Vegas (UNLV)","$45,200.00 ",
-Portland State University (PSU),"$42,600.00 ",
-Eastern Washington University,"$38,600.00 ",
-Fort Lewis College,"$42,000.00 ",
-Boise State University (BSU),"$40,800.00 ",
-Utah Valley State College,"$42,400.00 ",
-Evergreen State College,"$39,500.00 ",
-Southern Utah University,"$41,900.00 ",
-Montana State University - Billings,"$37,900.00 ",
-University of Notre Dame,"$56,300.00 ",
-University Of Chicago,"$53,400.00 ",
-Carleton College,"$47,500.00 ",
-Illinois Institute of Technology (IIT),"$56,000.00 ",
-Case Western Reserve University,"$56,200.00 ",
-University of Illinois at Urbana-Champaign (UIUC),"$52,900.00 ",
-Northwestern University,"$52,700.00 ",
-University of Missouri - Rolla (UMR),"$57,100.00 ",
-South Dakota School of Mines & Technology,"$55,800.00 ",
-University of Michigan,"$52,700.00 ",
-Purdue University,"$51,400.00 ",
-Marquette University,"$48,500.00 ",
-DePauw University,"$41,400.00 ",
-University of Wisconsin (UW) - Madison,"$48,900.00 ",
-Bradley University,"$47,000.00 ",
-St. Olaf College,"$45,300.00 ",
-Michigan State University (MSU),"$46,300.00 ",
-DePaul University,"$46,400.00 ",
-Iowa State University,"$45,400.00 ",
-University of Minnesota,"$46,200.00 ",
-"Indiana University (IU), Bloomington","$46,300.00 ",
-University of Iowa (UI),"$44,700.00 ",
-Ohio State University (OSU),"$44,900.00 ",
-Denison University,"$42,000.00 ",
-University of Illinois at Chicago,"$47,500.00 ",
-Oberlin College,"$43,400.00 ",
-University of Kansas,"$42,400.00 ",
-University of Missouri - Columbia,"$41,700.00 ",
-University of Nebraska,"$45,700.00 ",
-Northern Illinois University (NIU),"$43,600.00 ",
-Gustavus Adolphus College,"$44,500.00 ",
-University of North Dakota,"$44,000.00 ",
-Kansas State University (KSU),"$43,300.00 ",
-University of Wisconsin (UW) - Platteville,"$45,800.00 ",
-Wittenberg University,"$39,200.00 ",
-North Dakota State University (NDSU),"$45,100.00 ",
-Grinnell College,"$42,600.00 ",
-Wayne State University,"$42,800.00 ",
-University of Toledo,"$43,100.00 ",
-University of Wisconsin (UW) - Whitewater,"$40,800.00 ",
-Minnesota State University - Mankato,"$43,300.00 ",
-University of Wisconsin (UW) - Milwaukee,"$42,300.00 ",
-Western Michigan University (WMU),"$42,300.00 ",
-South Dakota State University (SDSU),"$41,100.00 ",
-Ohio University,"$42,200.00 ",
-Illinois State University,"$42,000.00 ",
-Cleveland State University,"$43,500.00 ",
-University of Nebraska at Omaha,"$41,500.00 ",
-Southern Illinois University Carbondale,"$43,000.00 ",
-Eastern Michigan University,"$40,300.00 ",
-Bowling Green State University,"$39,800.00 ",
-St. Cloud State University,"$41,800.00 ",
-University of Wisconsin (UW) - Parkside,"$40,700.00 ",
-University of Akron,"$41,100.00 ",
-Missouri State University (MSU),"$36,100.00 ",
-University of Wisconsin (UW) - La Crosse,"$42,200.00 ",
-University of Wisconsin (UW) - Stout,"$43,600.00 ",
-Robert Morris College (RMC),"$38,500.00 ",
-University of Missouri - St. Louis (UMSL),"$41,400.00 ",
-University of Wisconsin (UW) - Oshkosh,"$39,300.00 ",
-University of Missouri - Kansas City (UMKC),"$38,900.00 ",
-University of Wisconsin (UW) - Eau Claire,"$41,400.00 ",
-Ball State University (BSU),"$39,100.00 ",
-Park University,"$44,300.00 ",
-University of Wisconsin (UW) - Stevens Point,"$39,800.00 ",
-Kent State University,"$38,700.00 ",
-University of Wisconsin (UW) - Green Bay,"$35,800.00 ",
-Indiana Wesleyan University (IWU),"$39,800.00 ",
-Pittsburg State University,"$40,400.00 ",
-Davenport University,"$39,700.00 ",
-Black Hills State University,"$35,300.00 ",
-Rice University,"$64,000.00 ",
-Georgetown University,"$55,000.00 ",
-Duke University,"$58,900.00 ",
-Georgia Institute of Technology,"$58,300.00 ",
-Washington and Lee University,"$53,600.00 ",
-Vanderbilt University,"$51,200.00 ",
-Davidson College,"$46,100.00 ",
-University of Virginia (UVA),"$52,700.00 ",
-George Washington University (GWU),"$47,000.00 ",
-Texas A&M University,"$49,700.00 ",
-Tulane University,"$49,100.00 ",
-Virginia Polytechnic Institute and State University (Virginia Tech),"$53,500.00 ",
-"University of Maryland, College Park","$52,000.00 ",
-University of Richmond,"$48,600.00 ",
-University of Texas (UT) - Austin,"$49,700.00 ",
-Emory University,"$52,000.00 ",
-"American University, Washington D.C.","$45,300.00 ",
-University of Tulsa,"$42,400.00 ",
-Baylor University,"$48,300.00 ",
-University of Florida (UF),"$47,100.00 ",
-Louisiana State University (LSU),"$46,900.00 ",
-George Mason University,"$47,800.00 ",
-Clemson University,"$48,400.00 ",
-University of Georgia (UGA),"$44,100.00 ",
-Auburn University,"$45,400.00 ",
-University of Delaware,"$45,900.00 ",
-Randolph-Macon College,"$42,600.00 ",
-North Carolina State University (NCSU),"$47,200.00 ",
-University of Oklahoma,"$44,700.00 ",
-University of Arkansas,"$44,100.00 ",
-University of Alabama at Huntsville (UAH),"$43,100.00 ",
-Howard University,"$46,900.00 ",
-University of North Carolina at Chapel Hill (UNCH),"$42,900.00 ",
-"University of Alabama, Tuscaloosa","$41,300.00 ",
-University of Texas at Arlington (UTA),"$45,400.00 ",
-Oklahoma State University,"$42,800.00 ",
-Tennessee Technological University,"$46,200.00 ",
-University of Houston (UH),"$46,000.00 ",
-University of Mississippi,"$41,400.00 ",
-Lamar University,"$46,500.00 ",
-Mississippi State University (MSU),"$44,500.00 ",
-University of Kentucky (UK),"$42,800.00 ",
-Texas Christian University (TCU),"$45,100.00 ",
-West Virginia University (WVU),"$43,100.00 ",
-University of Maryland Baltimore County (UMBC),"$47,000.00 ",
-University of Louisiana (UL) at Lafayette,"$41,100.00 ",
-Florida International University (FIU),"$43,200.00 ",
-University of Tennessee,"$43,800.00 ",
-University of Arkansas - Monticello (UAM),"$39,200.00 ",
-University of North Carolina at Charlotte (UNCC),"$43,100.00 ",
-Georgia State University,"$41,800.00 ",
-LeTourneau University,"$49,500.00 ",
-Florida State University (FSU),"$42,100.00 ",
-University of Texas at El Paso (UTEP),"$43,400.00 ",
-University of Central Florida (UCF),"$42,600.00 ",
-University of South Carolina,"$40,000.00 ",
-Florida Atlantic University (FAU),"$42,600.00 ",
-University of South Florida (USF),"$41,100.00 ",
-University of Texas at San Antonio (UTSA),"$42,500.00 ",
-University of Alabama at Birmingham (UAB),"$39,200.00 ",
-University of Memphis (U of M),"$41,400.00 ",
-Appalachian State University,"$40,400.00 ",
-Virginia Commonwealth University (VCU),"$42,000.00 ",
-East Carolina University (ECU),"$40,200.00 ",
-Western Carolina University,"$36,900.00 ",
-Jacksonville University,"$46,700.00 ",
-University of North Carolina at Wilmington (UNCW),"$37,500.00 ",
-Oklahoma City University,"$40,000.00 ",
-Arkansas State University (ASU),"$38,700.00 ",
-Tarleton State University (TSU),"$40,800.00 ",
-Morehead State University,"$34,800.00 ",
-Mississippi College,"$35,400.00 ",
-Dallas Baptist University,"$39,400.00 ",
-Austin Peay State University,"$37,700.00 ",
-Saint Leo University,"$40,900.00 ",
-Tusculum College,"$36,900.00 ",
-Virginia Wesleyan College (VWC),"$34,600.00 ",
-"Lee University (Cleveland, TN)","$34,500.00 ",
-Florida Metropolitan University (FMU),"$36,600.00 ",
-Dartmouth College,"$58,000.00 ",
-Princeton University,"$66,500.00 ",
-Massachusetts Institute of Technology (MIT),"$72,200.00 ",
-Yale University,"$59,100.00 ",
-Harvard University,"$63,400.00 ",
-University of Pennsylvania,"$60,900.00 ",
-"Polytechnic University of New York, Brooklyn","$62,400.00 ",
-Cooper Union,"$62,200.00 ",
-Worcester Polytechnic Institute (WPI),"$61,000.00 ",
-Carnegie Mellon University (CMU),"$61,800.00 ",
-Rensselaer Polytechnic Institute (RPI),"$61,100.00 ",
-Cornell University,"$60,300.00 ",
-Bucknell University,"$54,100.00 ",
-Brown University,"$56,200.00 ",
-Colgate University,"$52,800.00 ",
-Columbia University,"$59,400.00 ",
-Amherst College,"$54,500.00 ",
-Lafayette College,"$53,900.00 ",
-Bowdoin College,"$48,100.00 ",
-College of the Holy Cross,"$50,200.00 ",
-Stevens Institute of Technology,"$60,600.00 ",
-Lehigh University,"$59,200.00 ",
-Swarthmore College,"$49,700.00 ",
-Boston College,"$52,700.00 ",
-Williams College,"$51,700.00 ",
-Villanova University,"$55,800.00 ",
-Fordham University,"$47,800.00 ",
-"Wesleyan University (Middletown, Connecticut)","$46,500.00 ",
-Wentworth Institute of Technology,"$53,000.00 ",
-Bates College,"$47,300.00 ",
-Binghamton University,"$53,600.00 ",
-Union College,"$47,200.00 ",
-New York University (NYU),"$50,300.00 ",
-Vassar College,"$46,000.00 ",
-Middlebury College,"$47,700.00 ",
-Mount Holyoke College,"$42,400.00 ",
-Boston University,"$49,000.00 ",
-Drexel University,"$53,400.00 ",
-"St. John's University, New York","$48,000.00 ",
-Long Island University,"$47,300.00 ",
-Stony Brook University,"$49,500.00 ",
-Franklin and Marshall College,"$49,100.00 ",
-Hofstra University,"$46,800.00 ",
-State University of New York (SUNY) at Albany,"$44,500.00 ",
-Rutgers University,"$50,300.00 ",
-Pratt Institute,"$43,800.00 ",
-Pace University,"$53,200.00 ",
-Seton Hall University,"$48,900.00 ",
-Rider University,"$43,600.00 ",
-University of Connecticut (UConn),"$48,000.00 ",
-Providence College,"$48,000.00 ",
-University of Massachusetts (UMass) - Amherst,"$46,600.00 ",
-Ithaca College,"$42,700.00 ",
-University of Massachusetts (UMass) - Lowell,"$45,400.00 ",
-Northeastern University,"$50,500.00 ",
-Syracuse University,"$45,700.00 ",
-Colby College,"$46,400.00 ",
-Gettysburg College,"$44,700.00 ",
-Pennsylvania State University (PSU),"$49,900.00 ",
-University of Rhode Island (URI),"$43,900.00 ",
-Siena College,"$45,500.00 ",
-La Salle University (Philadelphia),"$43,400.00 ",
-Rochester Institute of Technology (RIT),"$48,900.00 ",
-Duquesne University,"$40,700.00 ",
-State University of New York (SUNY) at Farmingdale,"$47,300.00 ",
-Smith College,"$44,000.00 ",
-Hamilton College,"$49,200.00 ",
-Wellesley College,"$42,800.00 ",
-Widener University,"$52,900.00 ",
-University of New Haven,"$44,400.00 ",
-Dowling College,"$41,100.00 ",
-University of Vermont (UVM),"$44,800.00 ",
-State University of New York (SUNY) at Buffalo,"$46,200.00 ",
-State University of New York (SUNY) at Geneseo,"$42,300.00 ",
-Fashion Institute of Technology,"$42,800.00 ",
-Philadelphia University,"$45,100.00 ",
-Ursinus College,"$42,100.00 ",
-Adelphi University,"$40,600.00 ",
-Juniata College,"$41,800.00 ",
-Fairleigh Dickinson University,"$45,700.00 ",
-University of New Hampshire (UNH),"$41,800.00 ",
-University of Massachusetts (UMass) - Boston,"$45,600.00 ",
-State University of New York (SUNY) at Oswego,"$38,000.00 ",
-University of Massachusetts (UMass) - Dartmouth,"$43,200.00 ",
-State University of New York (SUNY) at Oneonta,"$37,500.00 ",
-Quinnipiac University,"$43,000.00 ",
-State University of New York (SUNY) at Plattsburgh,"$40,800.00 ",
-Sacred Heart University,"$46,000.00 ",
-Skidmore College,"$41,600.00 ",
-Moravian College,"$42,500.00 ",
-Penn State - Harrisburg,"$45,700.00 ",
-Suffolk University,"$42,100.00 ",
-Fitchburg State College,"$42,400.00 ",
-Roger Williams University,"$42,000.00 ",
-University Of Maine,"$41,200.00 ",
-State University of New York (SUNY) at Potsdam,"$38,000.00 ",
-Niagara University,"$36,900.00 ",
-State University of New York (SUNY) at Fredonia,"$37,800.00 ",
-University of Southern Maine,"$39,400.00 ",
-Mercy College,"$43,700.00 ",
+Row Labels,Sum of Starting Median Salary
+California Institute of Technology (CIT),"$75,500.00"
+Massachusetts Institute of Technology (MIT),"$72,200.00"
+Harvey Mudd College,"$71,800.00"
+Stanford University,"$70,400.00"
+Princeton University,"$66,500.00"
+Rice University,"$64,000.00"
+Harvard University,"$63,400.00"
+"Polytechnic University of New York, Brooklyn","$62,400.00"
+Cooper Union,"$62,200.00"
+Carnegie Mellon University (CMU),"$61,800.00"
+Rensselaer Polytechnic Institute (RPI),"$61,100.00"
+Worcester Polytechnic Institute (WPI),"$61,000.00"
+University of Pennsylvania,"$60,900.00"
+Stevens Institute of Technology,"$60,600.00"
+Cornell University,"$60,300.00"
+"University of California, Berkeley","$59,900.00"
+Columbia University,"$59,400.00"
+Lehigh University,"$59,200.00"
+Yale University,"$59,100.00"
+Duke University,"$58,900.00"
+Georgia Institute of Technology,"$58,300.00"
+Colorado School of Mines,"$58,100.00"
+Dartmouth College,"$58,000.00"
+Cal Poly San Luis Obispo,"$57,200.00"
+University of Missouri - Rolla (UMR),"$57,100.00"
+University of Notre Dame,"$56,300.00"
+Case Western Reserve University,"$56,200.00"
+Brown University,"$56,200.00"
+Illinois Institute of Technology (IIT),"$56,000.00"
+Villanova University,"$55,800.00"
+South Dakota School of Mines & Technology,"$55,800.00"
+Georgetown University,"$55,000.00"
+University of Southern California (USC),"$54,800.00"
+Amherst College,"$54,500.00"
+Bucknell University,"$54,100.00"
+Lafayette College,"$53,900.00"
+Washington and Lee University,"$53,600.00"
+Binghamton University,"$53,600.00"
+San Jose State University (SJSU),"$53,500.00"
+Virginia Polytechnic Institute and State University (Virginia Tech),"$53,500.00"
+University Of Chicago,"$53,400.00"
+Drexel University,"$53,400.00"
+Pace University,"$53,200.00"
+Wentworth Institute of Technology,"$53,000.00"
+University of Illinois at Urbana-Champaign (UIUC),"$52,900.00"
+Widener University,"$52,900.00"
+Colgate University,"$52,800.00"
+Northwestern University,"$52,700.00"
+University of Virginia (UVA),"$52,700.00"
+University of Michigan,"$52,700.00"
+Boston College,"$52,700.00"
+University of California at Los Angeles (UCLA),"$52,600.00"
+"University of California, Davis","$52,300.00"
+"University of Maryland, College Park","$52,000.00"
+Emory University,"$52,000.00"
+Occidental College,"$51,900.00"
+Williams College,"$51,700.00"
+Purdue University,"$51,400.00"
+Vanderbilt University,"$51,200.00"
+"University of California, San Diego (UCSD)","$51,100.00"
+New Mexico Institute of Mining and Technology (New Mexico Tech),"$51,000.00"
+"University of California, Santa Barbara (UCSB)","$50,500.00"
+Northeastern University,"$50,500.00"
+New York University (NYU),"$50,300.00"
+Rutgers University,"$50,300.00"
+College of the Holy Cross,"$50,200.00"
+Pennsylvania State University (PSU),"$49,900.00"
+Swarthmore College,"$49,700.00"
+University of Texas (UT) - Austin,"$49,700.00"
+Texas A&M University,"$49,700.00"
+Stony Brook University,"$49,500.00"
+LeTourneau University,"$49,500.00"
+Brigham Young University (BYU),"$49,400.00"
+"California State University, East Bay (CSUEB)","$49,200.00"
+Hamilton College,"$49,200.00"
+Tulane University,"$49,100.00"
+Franklin and Marshall College,"$49,100.00"
+Boston University,"$49,000.00"
+Seton Hall University,"$48,900.00"
+Rochester Institute of Technology (RIT),"$48,900.00"
+University of Wisconsin (UW) - Madison,"$48,900.00"
+University of Washington (UW),"$48,800.00"
+Pomona College,"$48,600.00"
+University of Richmond,"$48,600.00"
+Marquette University,"$48,500.00"
+Clemson University,"$48,400.00"
+Baylor University,"$48,300.00"
+Seattle University,"$48,300.00"
+"University of California, Irvine (UCI)","$48,300.00"
+Regis University,"$48,300.00"
+Bowdoin College,"$48,100.00"
+Providence College,"$48,000.00"
+"St. John's University, New York","$48,000.00"
+University of Connecticut (UConn),"$48,000.00"
+"California State University, Sacramento (CSUS)","$47,800.00"
+George Mason University,"$47,800.00"
+Fordham University,"$47,800.00"
+Middlebury College,"$47,700.00"
+University of Illinois at Chicago,"$47,500.00"
+Carleton College,"$47,500.00"
+University of Arizona,"$47,500.00"
+"California State University (CSU), Chico","$47,400.00"
+Arizona State University (ASU),"$47,400.00"
+San Francisco State University (SFSU),"$47,300.00"
+State University of New York (SUNY) at Farmingdale,"$47,300.00"
+Long Island University,"$47,300.00"
+Bates College,"$47,300.00"
+North Carolina State University (NCSU),"$47,200.00"
+Union College,"$47,200.00"
+University of Florida (UF),"$47,100.00"
+University of Colorado - Boulder (UCB),"$47,100.00"
+Bradley University,"$47,000.00"
+University of Maryland Baltimore County (UMBC),"$47,000.00"
+George Washington University (GWU),"$47,000.00"
+Louisiana State University (LSU),"$46,900.00"
+Howard University,"$46,900.00"
+"University of California, Riverside (UCR)","$46,800.00"
+Hofstra University,"$46,800.00"
+Jacksonville University,"$46,700.00"
+University of Puget Sound,"$46,600.00"
+University of Massachusetts (UMass) - Amherst,"$46,600.00"
+Montana State University - Bozeman,"$46,600.00"
+"Wesleyan University (Middletown, Connecticut)","$46,500.00"
+Lamar University,"$46,500.00"
+"University of Nevada, Reno (UNR)","$46,500.00"
+Colby College,"$46,400.00"
+DePaul University,"$46,400.00"
+Michigan State University (MSU),"$46,300.00"
+"Indiana University (IU), Bloomington","$46,300.00"
+San Diego State University (SDSU),"$46,200.00"
+State University of New York (SUNY) at Buffalo,"$46,200.00"
+Tennessee Technological University,"$46,200.00"
+University of Minnesota,"$46,200.00"
+University of Colorado - Denver,"$46,100.00"
+Davidson College,"$46,100.00"
+Vassar College,"$46,000.00"
+University of Houston (UH),"$46,000.00"
+Sacred Heart University,"$46,000.00"
+"University of Alaska, Anchorage","$45,900.00"
+University of Delaware,"$45,900.00"
+University of Wisconsin (UW) - Platteville,"$45,800.00"
+"California State University, Fullerton (CSUF)","$45,700.00"
+University of Nebraska,"$45,700.00"
+Penn State - Harrisburg,"$45,700.00"
+Fairleigh Dickinson University,"$45,700.00"
+Syracuse University,"$45,700.00"
+University of Massachusetts (UMass) - Boston,"$45,600.00"
+"California State University, Northridge (CSUN)","$45,500.00"
+Siena College,"$45,500.00"
+University of Utah,"$45,400.00"
+Auburn University,"$45,400.00"
+Iowa State University,"$45,400.00"
+University of Massachusetts (UMass) - Lowell,"$45,400.00"
+University of Texas at Arlington (UTA),"$45,400.00"
+Washington State University (WSU),"$45,300.00"
+St. Olaf College,"$45,300.00"
+"American University, Washington D.C.","$45,300.00"
+"University of Nevada, Las Vegas (UNLV)","$45,200.00"
+Texas Christian University (TCU),"$45,100.00"
+North Dakota State University (NDSU),"$45,100.00"
+Oregon State University (OSU),"$45,100.00"
+"California State University, Long Beach (CSULB)","$45,100.00"
+Philadelphia University,"$45,100.00"
+University of Idaho,"$44,900.00"
+Idaho State University,"$44,900.00"
+Gonzaga University,"$44,900.00"
+Ohio State University (OSU),"$44,900.00"
+University of Vermont (UVM),"$44,800.00"
+Colorado State University (CSU),"$44,800.00"
+"University of California, Santa Cruz (UCSC)","$44,700.00"
+University of Iowa (UI),"$44,700.00"
+University of Oklahoma,"$44,700.00"
+Gettysburg College,"$44,700.00"
+University of Wyoming (UW),"$44,500.00"
+State University of New York (SUNY) at Albany,"$44,500.00"
+Gustavus Adolphus College,"$44,500.00"
+Mississippi State University (MSU),"$44,500.00"
+University of New Haven,"$44,400.00"
+New Mexico State University,"$44,300.00"
+Park University,"$44,300.00"
+University of Georgia (UGA),"$44,100.00"
+University of Arkansas,"$44,100.00"
+University of North Dakota,"$44,000.00"
+Smith College,"$44,000.00"
+University of Rhode Island (URI),"$43,900.00"
+University of Tennessee,"$43,800.00"
+University of Hawaii,"$43,800.00"
+Pratt Institute,"$43,800.00"
+Utah State University,"$43,800.00"
+Mercy College,"$43,700.00"
+University of Wisconsin (UW) - Stout,"$43,600.00"
+Rider University,"$43,600.00"
+Northern Illinois University (NIU),"$43,600.00"
+Cleveland State University,"$43,500.00"
+Whitman College,"$43,500.00"
+University of Texas at El Paso (UTEP),"$43,400.00"
+La Salle University (Philadelphia),"$43,400.00"
+Oberlin College,"$43,400.00"
+Minnesota State University - Mankato,"$43,300.00"
+Kansas State University (KSU),"$43,300.00"
+University of Massachusetts (UMass) - Dartmouth,"$43,200.00"
+Florida International University (FIU),"$43,200.00"
+University of Toledo,"$43,100.00"
+University of North Carolina at Charlotte (UNCC),"$43,100.00"
+West Virginia University (WVU),"$43,100.00"
+University of Alabama at Huntsville (UAH),"$43,100.00"
+Southern Illinois University Carbondale,"$43,000.00"
+Quinnipiac University,"$43,000.00"
+University of North Carolina at Chapel Hill (UNCH),"$42,900.00"
+Wellesley College,"$42,800.00"
+Oklahoma State University,"$42,800.00"
+Fashion Institute of Technology,"$42,800.00"
+University of Kentucky (UK),"$42,800.00"
+Wayne State University,"$42,800.00"
+Western Washington University,"$42,700.00"
+Ithaca College,"$42,700.00"
+"California State University, Dominguez Hills (CSUDH)","$42,700.00"
+University of Central Florida (UCF),"$42,600.00"
+Humboldt State University,"$42,600.00"
+Randolph-Macon College,"$42,600.00"
+Florida Atlantic University (FAU),"$42,600.00"
+Portland State University (PSU),"$42,600.00"
+Grinnell College,"$42,600.00"
+Moravian College,"$42,500.00"
+University of Texas at San Antonio (UTSA),"$42,500.00"
+University of Kansas,"$42,400.00"
+Utah Valley State College,"$42,400.00"
+Mount Holyoke College,"$42,400.00"
+University of Tulsa,"$42,400.00"
+Fitchburg State College,"$42,400.00"
+University of Wisconsin (UW) - Milwaukee,"$42,300.00"
+Western Michigan University (WMU),"$42,300.00"
+State University of New York (SUNY) at Geneseo,"$42,300.00"
+University of Oregon,"$42,200.00"
+Ohio University,"$42,200.00"
+University of Wisconsin (UW) - La Crosse,"$42,200.00"
+Florida State University (FSU),"$42,100.00"
+Suffolk University,"$42,100.00"
+Ursinus College,"$42,100.00"
+Roger Williams University,"$42,000.00"
+Virginia Commonwealth University (VCU),"$42,000.00"
+Illinois State University,"$42,000.00"
+Fort Lewis College,"$42,000.00"
+Denison University,"$42,000.00"
+Southern Utah University,"$41,900.00"
+University of New Hampshire (UNH),"$41,800.00"
+St. Cloud State University,"$41,800.00"
+Juniata College,"$41,800.00"
+Georgia State University,"$41,800.00"
+University of Missouri - Columbia,"$41,700.00"
+Skidmore College,"$41,600.00"
+University of New Mexico (UNM),"$41,600.00"
+Thomas Aquinas College,"$41,500.00"
+University of Nebraska at Omaha,"$41,500.00"
+University of Mississippi,"$41,400.00"
+University of Missouri - St. Louis (UMSL),"$41,400.00"
+University of Wisconsin (UW) - Eau Claire,"$41,400.00"
+University of Memphis (U of M),"$41,400.00"
+DePauw University,"$41,400.00"
+"University of Alabama, Tuscaloosa","$41,300.00"
+University Of Maine,"$41,200.00"
+South Dakota State University (SDSU),"$41,100.00"
+University of Louisiana (UL) at Lafayette,"$41,100.00"
+University of Akron,"$41,100.00"
+Dowling College,"$41,100.00"
+University of South Florida (USF),"$41,100.00"
+Saint Leo University,"$40,900.00"
+Boise State University (BSU),"$40,800.00"
+Tarleton State University (TSU),"$40,800.00"
+University of Wisconsin (UW) - Whitewater,"$40,800.00"
+State University of New York (SUNY) at Plattsburgh,"$40,800.00"
+Duquesne University,"$40,700.00"
+University of Wisconsin (UW) - Parkside,"$40,700.00"
+Adelphi University,"$40,600.00"
+Reed College,"$40,500.00"
+Appalachian State University,"$40,400.00"
+Pittsburg State University,"$40,400.00"
+Eastern Michigan University,"$40,300.00"
+East Carolina University (ECU),"$40,200.00"
+University of South Carolina,"$40,000.00"
+Oklahoma City University,"$40,000.00"
+University of Wisconsin (UW) - Stevens Point,"$39,800.00"
+Indiana Wesleyan University (IWU),"$39,800.00"
+Bowling Green State University,"$39,800.00"
+Davenport University,"$39,700.00"
+Evergreen State College,"$39,500.00"
+Dallas Baptist University,"$39,400.00"
+University of Southern Maine,"$39,400.00"
+University of Wisconsin (UW) - Oshkosh,"$39,300.00"
+Wittenberg University,"$39,200.00"
+University of Arkansas - Monticello (UAM),"$39,200.00"
+University of Alabama at Birmingham (UAB),"$39,200.00"
+Ball State University (BSU),"$39,100.00"
+University of Missouri - Kansas City (UMKC),"$38,900.00"
+Lewis & Clark College,"$38,900.00"
+Arkansas State University (ASU),"$38,700.00"
+Kent State University,"$38,700.00"
+Eastern Washington University,"$38,600.00"
+Robert Morris College (RMC),"$38,500.00"
+Colorado College (CC),"$38,500.00"
+State University of New York (SUNY) at Potsdam,"$38,000.00"
+"California State University (CSU), Stanislaus","$38,000.00"
+State University of New York (SUNY) at Oswego,"$38,000.00"
+Montana State University - Billings,"$37,900.00"
+State University of New York (SUNY) at Fredonia,"$37,800.00"
+Austin Peay State University,"$37,700.00"
+University of North Carolina at Wilmington (UNCW),"$37,500.00"
+State University of New York (SUNY) at Oneonta,"$37,500.00"
+University of Montana,"$37,300.00"
+Niagara University,"$36,900.00"
+Tusculum College,"$36,900.00"
+Western Carolina University,"$36,900.00"
+Florida Metropolitan University (FMU),"$36,600.00"
+Missouri State University (MSU),"$36,100.00"
+University of Wisconsin (UW) - Green Bay,"$35,800.00"
+Mississippi College,"$35,400.00"
+Black Hills State University,"$35,300.00"
+Morehead State University,"$34,800.00"
+Virginia Wesleyan College (VWC),"$34,600.00"
+"Lee University (Cleveland, TN)","$34,500.00"
+(blank),
+Grand Total,"$14,801,100.00"
